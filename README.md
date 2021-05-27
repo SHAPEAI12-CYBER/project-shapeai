@@ -28,3 +28,4 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+ https://shapeai12-cyber.github.io/project-shapeai/   (click on this link for quick view of my project)
